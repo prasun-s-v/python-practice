@@ -13,6 +13,13 @@ I’m refreshing Python with a focus on data analysis, logic building, and solvi
 - Tools Used: Python 3
 - Help: AI guidance used for some logic, then rewritten with my understanding
 
+### ✅ Day 2
+- Topics: Lists, loops, Dictionaries, List Comprehension
+- Struggles: Syntax issues, logic recall
+- Tools Used: Python 3
+- Help: AI guidance used for some logic, then rewritten with my understanding
+
+
 More days will be added...
 
 ## 📌 Note
